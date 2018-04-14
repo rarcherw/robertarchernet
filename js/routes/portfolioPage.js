@@ -1,4 +1,4 @@
-angular.module('portfolio', [])
+angular.module('portfolioPage', [])
 .config(function ($stateProvider, $locationProvider) {
         $stateProvider.state('portfolio', {
             name: 'portfolio',
